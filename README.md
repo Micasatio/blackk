@@ -1,4 +1,7 @@
 # `🔥 BLACK BOT_MD 🔥`
+<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
+</div>
+<br>
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
