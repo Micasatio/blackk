@@ -3,6 +3,7 @@
 </div>
 <br>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CA22&width=435&lines=Dame+Una+Estrellita+porfa+:)
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO SOBRINO 🥵-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -17,7 +18,7 @@
 
 <a href="https://api.whatsapp.com/send/?phone=595983186566&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
- > NO SPAMEAR COMANDOS
+ > ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CA22&width=435&lines=NO+SPAMEAR+COMANDOS+)
 
 
 
